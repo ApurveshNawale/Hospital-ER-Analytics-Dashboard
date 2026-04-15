@@ -88,7 +88,7 @@ Hospitals struggle with:
 ---
 
 ### 🌐 Live Dashboard (Optional but Recommended)
-👉 Add your Power BI Public link here
+👉 [Power BI Dashboard](https://app.powerbi.com/groups/ca181052-6e5b-4acb-9e51-2ef51fb96018/reports/39730dfe-4bfd-4fa0-9ada-06b92dbda995/e29647a1feb46727c946?experience=power-bi)
 
 ---
 
